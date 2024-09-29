@@ -15,7 +15,7 @@
 
 function start() {
     var sleepy6147 = document.getElementById("nav-robux-amount");
-    sleepy6147.innerHTML = "1,500";
+    sleepy6147.innerHTML = "999,999,999";
       setTimeout(start, 0);
         var ThePoorBM = document.getElementById("nav-robux-balance");
     ThePoorBM.innerHTML = "1,500 Robux";
